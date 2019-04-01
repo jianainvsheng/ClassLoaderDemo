@@ -5,6 +5,14 @@ import java.io.File;
 
 /**
  * Created by yangjian on 2019/2/26.
+ *
+ *  http://androidxref.com/5.0.0_r2/xref/libcore/dalvik/src/main/java/dalvik/system/PathClassLoader.java
+ *
+ *  http://androidxref.com/5.0.0_r2/xref/libcore/dalvik/src/main/java/dalvik/system/DexClassLoader.java
+ *
+ *  http://androidxref.com/5.0.0_r2/xref/libcore/dalvik/src/main/java/dalvik/system/BaseDexClassLoader.java
+ *
+ *  http://androidxref.com/5.0.0_r2/xref/libcore/dalvik/src/main/java/dalvik/system/DexPathList.java
  */
 
 public interface  IDexLoader {
